@@ -1,5 +1,7 @@
 #!/bin/sh
 
+echo "" > cookies_twitter.txt
+
 # GET NO-JAVASCRIPT SESSION
 curl -s -c cookies_twitter.txt 'https://mobile.twitter.com/i/nojs_router?path=%2Fsession%2Fnew' \
   -X 'POST' \
