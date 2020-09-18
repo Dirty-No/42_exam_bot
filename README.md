@@ -1,2 +1,2 @@
-# 42_exam_bot
-twitter/shell bot that monitor exams in real time
+# twi_client
+no app no api cli twitter client
