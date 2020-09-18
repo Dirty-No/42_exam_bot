@@ -1,6 +1,5 @@
 cecauger
 shemami
-cli
 cclair
 rhoarau
 lech-cha
